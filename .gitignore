@@ -310,3 +310,6 @@ dmypy.json
 cython_debug/
 
 # data/
+/data/recipeitems-latest.json
+/data/gistemp250.nc
+/data/FremontBridge.csv
